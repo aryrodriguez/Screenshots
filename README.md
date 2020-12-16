@@ -1,3 +1,3 @@
 # Screenshots
-![](../master/CheckBoxButton/CheckBoxButton/screenShot/checkbox.png)
+![](Screenshots/CollapsedCells/sample.gif)
 
