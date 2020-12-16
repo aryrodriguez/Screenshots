@@ -1,3 +1,3 @@
 # Screenshots
 
-![](../master/Screenshots/CollapsedCells/sample.gif)
+![](sample.gif)
